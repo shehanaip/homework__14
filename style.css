@@ -1,0 +1,22 @@
+
+li{
+    padding-left: 15px;
+    
+}
+
+.h3{
+    color: #353535;
+  
+}
+.navbar .container h3{
+    font-size: 41px;
+    font-weight: 400;
+    font-family: 'Potta One', cursive;
+}
+span{
+    color: #F8BC17;
+}
+.navbar-nav .nav-item .nav-link {
+    color: #353535;
+    font-weight: 500;
+  }
